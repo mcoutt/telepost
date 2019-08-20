@@ -1,0 +1,18 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+
+# misc
+.DS_Store
+venv*
+
+
+#IDEA
+.idea
+
+#config
+config.ini
+
+
+# sqlite db
+db.sqlite3
+
