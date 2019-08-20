@@ -4,7 +4,7 @@
 # misc
 .DS_Store
 venv*
-
+__pycache__
 
 #IDEA
 .idea
